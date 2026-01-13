@@ -25,6 +25,8 @@ I will be creating another nat-gateway inside public subnet 2. A NAT gateway all
 
 
 ## Create an Application Load Balancer.
+<img width="1438" height="761" alt="Screenshot 2026-01-13 at 18 00 07" src="https://github.com/user-attachments/assets/553c2448-d98f-4f84-a335-6792ebd0303d" />
+
 
 
 ## Create a launch template.
@@ -38,3 +40,6 @@ I will be creating another nat-gateway inside public subnet 2. A NAT gateway all
 ## Set an alarm on a system metric to initiate auto scaling.
 
 ## Test load balancing and automatic scaling.
+I tested with a web application that i setup in webserver instance. That's what it shows in the image below.
+<img width="1438" height="898" alt="Screenshot 2026-01-13 at 18 10 59" src="https://github.com/user-attachments/assets/42a097b0-c46b-4b19-9890-3f6a7070d80b" />
+
